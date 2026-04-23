@@ -82,32 +82,32 @@ A key result from the notebook is that spline models provide the best overall fi
 
 <table>
   <tr>
-    <td><img src="readme_assets/figure_1.png" width="100%"></td>
-    <td><img src="readme_assets/figure_2.png" width="100%"></td>
+    <td><img src="assets/figures/figure_1.png" width="100%"></td>
+    <td><img src="assets/figures/figure_2.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center">Exploratory relationship between body-size measures and blood pressure.</td>
     <td align="center">Model-based comparison of fitted trends across candidate specifications.</td>
   </tr>
   <tr>
-    <td><img src="readme_assets/figure_3.png" width="100%"></td>
-    <td><img src="readme_assets/figure_4.png" width="100%"></td>
+    <td><img src="assets/figures/figure_3.png" width="100%"></td>
+    <td><img src="assets/figures/figure_4.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center">Adjusted fitted curve for systolic blood pressure as waist circumference changes.</td>
     <td align="center">Subgroup comparison showing how the fitted association differs across groups.</td>
   </tr>
   <tr>
-    <td><img src="readme_assets/figure_5.png" width="100%"></td>
-    <td><img src="readme_assets/figure_6.png" width="100%"></td>
+    <td><img src="assets/figures/figure_5.png" width="100%"></td>
+    <td><img src="assets/figures/figure_6.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center">Nonlinear fit highlighting curvature in the waist–SBP relationship.</td>
     <td align="center">Alternative adjusted view emphasizing uncertainty bands around fitted values.</td>
   </tr>
   <tr>
-    <td><img src="readme_assets/figure_7.png" width="100%"></td>
-    <td><img src="readme_assets/figure_8.png" width="100%"></td>
+    <td><img src="assets/figures/figure_7.png" width="100%"></td>
+    <td><img src="assets/figures/figure_8.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center">Predicted mean SBP across waist circumference for one adjustment setting.</td>
