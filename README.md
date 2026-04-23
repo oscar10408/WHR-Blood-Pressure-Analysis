@@ -114,8 +114,8 @@ A key result from the notebook is that spline models provide the best overall fi
     <td align="center">Comparison figure summarizing shape differences across sexes or covariate profiles.</td>
   </tr>
   <tr>
-    <td><img src="readme_assets/figure_9.png" width="100%"></td>
-    <td><img src="readme_assets/figure_10.png" width="100%"></td>
+    <td><img src="assets/figures/figure_9.png" width="100%"></td>
+    <td><img src="assets/figures/figure_10.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center">Visualization of the fitted effect under a more flexible spline-based model.</td>
